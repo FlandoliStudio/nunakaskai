@@ -1,0 +1,436 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.nunakaskai.com" resolutions="1x" timestamp="1680710277890">
+  <folder name="assets">
+    <file name="-mr--customer-preloader-v2.mulib" crc="72198757" seo="true" mt="1433089078000"/>
+    <file name="mobile-menu.mulib" crc="95576157" seo="true" mt="1422915313000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3894975254"/>
+    <file name="master_a-master.css" crc="4172144641" ref="index:productos:nosotros:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:productos:nosotros:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="index.css" crc="3775384421" ref="index"/>
+    <file name="nomq_index.css" crc="465755659" ref="index"/>
+    <file name="productos.css" crc="4094976773" ref="productos"/>
+    <file name="nomq_productos.css" crc="4081864181" ref="productos"/>
+    <file name="nosotros.css" crc="3949098922" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="3790972602" ref="nosotros"/>
+    <file name="contacto.css" crc="3794247583" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="4114566175" ref="contacto"/>
+    <file name="extracto-de-guayusa.css" crc="3758351184" ref="extracto-de-guayusa"/>
+    <file name="nomq_extracto-de-guayusa.css" crc="89476397" ref="extracto-de-guayusa"/>
+    <file name="extracto-de-moringa.css" crc="4094203531" ref="extracto-de-moringa"/>
+    <file name="nomq_extracto-de-moringa.css" crc="355055864" ref="extracto-de-moringa"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+    <file name="montserrat-bold.woff" crc="14855227"/>
+    <file name="montserrat-bold.eot" crc="485340081"/>
+    <file name="montserrat-bold.svg" crc="3988966961"/>
+    <file name="montserrat-light.woff" crc="3834854747"/>
+    <file name="montserrat-light.eot" crc="375552948"/>
+    <file name="montserrat-light.svg" crc="272031144"/>
+    <file name="montserrat-regular.woff" crc="4135477444"/>
+    <file name="montserrat-regular.eot" crc="3805187835"/>
+    <file name="montserrat-regular.svg" crc="4125985737"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>nosotros:phone>productos:phone>contacto:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="102309088" ref="phone>index:nosotros"/>
+    <file name="hoja_baner_desktop.jpg" crc="185493160" ref="index:extracto-de-guayusa" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-265557x68.svg" crc="4286958817" seo="true" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="pasted svg 265557x68_poster_.png" crc="3915929883" ref="phone>index:nosotros"/>
+    <file name="moringa-nunakaskai355x346.jpg" crc="4006976610" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Extractos naturales, extracto, líquido, Moringa, complemento nutricional, proteína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="guayusa-nuna kaskai370x361.jpg" crc="444403273" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="correo.svg" crc="3854728827" seo="true" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="correo_poster_.png" crc="4017656481" ref="phone>index:nosotros"/>
+    <file name="whatsapp.svg" crc="181608024" seo="true" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="whatsapp_poster_.png" crc="4058567782" ref="phone>index:nosotros"/>
+    <file name="telefono.svg" crc="3839291218" seo="true" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="telefono_poster_.png" crc="488915205" ref="phone>index:nosotros"/>
+    <file name="ubicacion.svg" crc="97009565" seo="true" ref="phone>index:phone>nosotros:phone>productos:phone>extracto-de-guayusa:phone>extracto-de-moringa:phone>contacto:index:nosotros:productos:contacto:extracto-de-guayusa:extracto-de-moringa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="ubicacion_poster_.png" crc="483354844" ref="phone>index:nosotros"/>
+    <file name="guayusa-nuna kaskai300x293.jpg" crc="429949421" seo="true" ref="phone>productos">
+      <caption webpage="productos" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="moringa-nunakaskai299x292.jpg" crc="4115788408" seo="true" ref="phone>productos">
+      <caption webpage="productos" alt="Extractos naturales, extracto, líquido, Moringa, complemento nutricional, proteína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="guayusa-nuna kaskai380x371.jpg" crc="221993970" seo="true" ref="phone>extracto-de-guayusa">
+      <caption webpage="extracto-de-guayusa" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="moringa-nunakaskai388x378.jpg" crc="460215362" seo="true" ref="phone>extracto-de-moringa">
+      <caption webpage="extracto-de-moringa" alt="Extractos naturales, extracto, líquido, Moringa, complemento nutricional, proteína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="whatsapp_1.svg" crc="291872334" seo="true" ref="phone>contacto:contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="whatsapp_1_poster_.png" crc="314197167" ref="phone>contacto:contacto"/>
+    <file name="hoja-stevia.png" crc="3808389114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hoja-guayusa.png" crc="4123524375" seo="true" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="jungle_baner_desktop.jpg" crc="4292338374" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="woman_baner_desktop.jpg" crc="4248304368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envases_productos_nunakaskai.png" crc="271571672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moringa-nunakaskai.jpg" crc="4289271322" seo="true" ref="index:productos:extracto-de-moringa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+    </file>
+    <file name="guayusa-nuna kaskai.jpg" crc="3962870974" seo="true" ref="index:productos:extracto-de-guayusa">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="extracto-de-guayusa" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+      <caption webpage="extracto-de-guayusa" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+      <caption webpage="extracto-de-guayusa" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="envases_productos_nunakaskai694x422.png" crc="341346981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moringa-nunakaskai437x426.jpg" crc="43433023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envases_productos_nunakaskai530x322.png" crc="112819106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moringa-nunakaskai487x476.jpg" crc="142047894" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="moringa-nunakaskai411x402.jpg" crc="184571953" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="guayusa-nuna kaskai428x418.jpg" crc="267064806" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="guayusa-nuna kaskai454x443.jpg" crc="3806665075" seo="true" ref="extracto-de-guayusa">
+      <caption webpage="extracto-de-guayusa" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="guayusa-nuna kaskai441x430.jpg" crc="46598027" seo="true" ref="extracto-de-guayusa">
+      <caption webpage="extracto-de-guayusa" alt="Extractos naturales, extracto, líquido, Guayusa, energizante natural, cafeína, alimentación, salud, Nuna Kaskai, Tinturas madre, Ecuador"/>
+    </file>
+    <file name="moringa-nunakaskai398x389.jpg" crc="3937280734" seo="true" ref="extracto-de-moringa">
+      <caption webpage="extracto-de-moringa" alt=""/>
+    </file>
+    <file name="sellograndi@4x.png" crc="145497728" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="meditation_baner_desktop.jpg" crc="477170895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="productos-2_baner_desktop.jpg" crc="4098730144" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="productos-2_baner_desktop-u1274-fr.jpg" crc="523975319" ref="productos"/>
+    <file name="contact_baner_desktop.jpg" crc="151935356" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="contact_baner_desktop-u1664-fr.jpg" crc="19533837" ref="contacto"/>
+    <file name="hoja_baner_desktop-u1576-fr.jpg" crc="3779340868" ref="extracto-de-guayusa"/>
+    <file name="moringa_baner_desktop.jpg" crc="279869502" ref="extracto-de-moringa" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="extracto-de-moringa" alt=""/>
+    </file>
+    <file name="moringa_baner_desktop-u1832-fr.jpg" crc="3759157806" ref="extracto-de-moringa"/>
+    <file name="baner-phone-home.jpg" crc="3759698893" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu@2x.png" crc="4202621472" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrar@2x.png" crc="4267982862" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nosotros_baner_mobil.jpg" crc="4198068459" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="productos_baner_mobil.jpg" crc="331509791" ref="phone>productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="hoja_baner_mobil.jpg" crc="4237550399" ref="phone>extracto-de-guayusa">
+      <caption webpage="extracto-de-guayusa" alt=""/>
+    </file>
+    <file name="moringa_baner_mobil.jpg" crc="3821713019" ref="phone>extracto-de-moringa">
+      <caption webpage="extracto-de-moringa" alt=""/>
+    </file>
+    <file name="contacto_baner_mobil.jpg" crc="4235513499" ref="phone>contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="moringa.png" crc="94454020" seo="true" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="envases_phone.png" crc="4073716133" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="471750260" ref="phone>productos:phone>contacto:phone>extracto-de-guayusa:phone>nosotros:phone>extracto-de-moringa:phone>index"/>
+      <file name="productos.css" crc="176415982" ref="phone>productos"/>
+      <file name="contacto.css" crc="278984090" ref="phone>contacto"/>
+      <file name="extracto-de-guayusa.css" crc="349925019" ref="phone>extracto-de-guayusa"/>
+      <file name="nosotros.css" crc="4166278750" ref="phone>nosotros"/>
+      <file name="extracto-de-moringa.css" crc="3976152646" ref="phone>extracto-de-moringa"/>
+      <file name="index.css" crc="357730974" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="193202384" seo="true" mt="1680709931236" redirect="true"/>
+    <file name="nosotros.html" crc="4103956322" seo="true" mt="1680709931236" redirect="true"/>
+    <file name="productos.html" crc="4215044079" seo="true" mt="1680709931236" redirect="true"/>
+    <file name="extracto-de-guayusa.html" crc="240569608" seo="true" mt="1680709931236" redirect="true"/>
+    <file name="extracto-de-moringa.html" crc="4054543020" seo="true" mt="1680709931236" redirect="true"/>
+    <file name="contacto.html" crc="4270214360" seo="true" mt="1680709931236" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3986695390" seo="true" mt="1680709221516" redirect="true"/>
+  <file name="nosotros.html" crc="4181488997" seo="true" mt="1680710261557" redirect="true"/>
+  <file name="productos.html" crc="124437911" seo="true" mt="1680674599649" redirect="true"/>
+  <file name="contacto.html" crc="4179941142" seo="true" mt="1680675170189" redirect="true"/>
+  <file name="extracto-de-guayusa.html" crc="4112870061" seo="true" mt="1680674599649" redirect="true"/>
+  <file name="extracto-de-moringa.html" crc="60085378" seo="true" mt="1680674599649" redirect="true"/>
+</manifest>
