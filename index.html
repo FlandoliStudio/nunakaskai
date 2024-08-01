@@ -18,7 +18,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "jquery.watch.js", "require.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "require.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.nunakaskai.com/phone/index.html"/>
@@ -26,8 +26,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>INICIO| Nuna Kaskai: Extractos Naturales </title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3894975254"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4172144641"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3775384421" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=255350973"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3908000383" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -732,30 +732,30 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu7078', ['#bp_infinity', '#bp_1680', '#bp_1440', '#bp_1280', '#bp_1024'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:4500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:2000,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu7078 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1680', '#bp_1440', '#bp_1280', '#bp_1024'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_1024').one('muse_this_bp_activate', function(){
-$('#u1140').registerPositionScrollEffect([{"speed":[-0.2,0.6],"in":[-Infinity,1235.4]},{"speed":[-0.2,0.6],"in":[1235.4,Infinity]}], $(this)); /* scroll effect */
-$('#u1130').registerPositionScrollEffect([{"speed":[0.2,0.5],"in":[-Infinity,929.81]},{"speed":[0.2,0.6],"in":[929.81,Infinity]}], $(this)); /* scroll effect */
-$('#u1120').registerPositionScrollEffect([{"speed":[-0.1,0.4],"in":[-Infinity,1707.19]},{"speed":[-0.2,0.5],"in":[1707.19,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1280').one('muse_this_bp_activate', function(){
-$('#u1140').registerPositionScrollEffect([{"speed":[-0.2,0.6],"in":[-Infinity,1828]},{"speed":[-0.2,0.6],"in":[1828,Infinity]}], $(this)); /* scroll effect */
-$('#u1130').registerPositionScrollEffect([{"speed":[0.2,0.5],"in":[-Infinity,1223.51]},{"speed":[0.2,0.6],"in":[1223.51,Infinity]}], $(this)); /* scroll effect */
-$('#u1120').registerPositionScrollEffect([{"speed":[-0.1,0.4],"in":[-Infinity,1774.64]},{"speed":[-0.2,0.5],"in":[1774.64,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1680').one('muse_this_bp_activate', function(){
-$('#u1140').registerPositionScrollEffect([{"speed":[-0.2,0.6],"in":[-Infinity,1874]},{"speed":[-0.2,0.6],"in":[1874,Infinity]}], $(this)); /* scroll effect */
-$('#u1130').registerPositionScrollEffect([{"speed":[0.2,0.5],"in":[-Infinity,1042.96]},{"speed":[0.2,0.6],"in":[1042.96,Infinity]}], $(this)); /* scroll effect */
-$('#u1120').registerPositionScrollEffect([{"speed":[-0.1,0.4],"in":[-Infinity,2194.69]},{"speed":[-0.2,0.5],"in":[2194.69,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u1140').registerPositionScrollEffect([{"speed":[-0.2,0.6],"in":[-Infinity,1693.45]},{"speed":[-0.2,0.6],"in":[1693.45,Infinity]}], $(this)); /* scroll effect */
-$('#u1130').registerPositionScrollEffect([{"speed":[0.2,0.5],"in":[-Infinity,856.16]},{"speed":[0.2,0.6],"in":[856.16,Infinity]}], $(this)); /* scroll effect */
-$('#u1120').registerPositionScrollEffect([{"speed":[-0.1,0.4],"in":[-Infinity,2120.34]},{"speed":[-0.2,0.5],"in":[2120.34,Infinity]}], $(this)); /* scroll effect */
+$('#u1140').registerPositionScrollEffect([{"in":[-Infinity,1693.45],"speed":[-0.2,0.6]},{"in":[1693.45,Infinity],"speed":[-0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1130').registerPositionScrollEffect([{"in":[-Infinity,856.16],"speed":[0.2,0.5]},{"in":[856.16,Infinity],"speed":[0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1120').registerPositionScrollEffect([{"in":[-Infinity,2120.34],"speed":[-0.1,0.4]},{"in":[2120.34,Infinity],"speed":[-0.2,0.5]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1440').one('muse_this_bp_activate', function(){
-$('#u1140').registerPositionScrollEffect([{"speed":[-0.2,0.6],"in":[-Infinity,1786.1]},{"speed":[-0.2,0.6],"in":[1786.1,Infinity]}], $(this)); /* scroll effect */
-$('#u1130').registerPositionScrollEffect([{"speed":[0.2,0.5],"in":[-Infinity,1254.11]},{"speed":[0.2,0.6],"in":[1254.11,Infinity]}], $(this)); /* scroll effect */
-$('#u1120').registerPositionScrollEffect([{"speed":[-0.1,0.4],"in":[-Infinity,1901.49]},{"speed":[-0.2,0.5],"in":[1901.49,Infinity]}], $(this)); /* scroll effect */
+$('#u1140').registerPositionScrollEffect([{"in":[-Infinity,1786.1],"speed":[-0.2,0.6]},{"in":[1786.1,Infinity],"speed":[-0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1130').registerPositionScrollEffect([{"in":[-Infinity,1254.11],"speed":[0.2,0.5]},{"in":[1254.11,Infinity],"speed":[0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1120').registerPositionScrollEffect([{"in":[-Infinity,1901.49],"speed":[-0.1,0.4]},{"in":[1901.49,Infinity],"speed":[-0.2,0.5]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1024').one('muse_this_bp_activate', function(){
+$('#u1140').registerPositionScrollEffect([{"in":[-Infinity,1235.4],"speed":[-0.2,0.6]},{"in":[1235.4,Infinity],"speed":[-0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1130').registerPositionScrollEffect([{"in":[-Infinity,929.81],"speed":[0.2,0.5]},{"in":[929.81,Infinity],"speed":[0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1120').registerPositionScrollEffect([{"in":[-Infinity,1707.19],"speed":[-0.1,0.4]},{"in":[1707.19,Infinity],"speed":[-0.2,0.5]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1280').one('muse_this_bp_activate', function(){
+$('#u1140').registerPositionScrollEffect([{"in":[-Infinity,1828],"speed":[-0.2,0.6]},{"in":[1828,Infinity],"speed":[-0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1130').registerPositionScrollEffect([{"in":[-Infinity,1223.51],"speed":[0.2,0.5]},{"in":[1223.51,Infinity],"speed":[0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1120').registerPositionScrollEffect([{"in":[-Infinity,1774.64],"speed":[-0.1,0.4]},{"in":[1774.64,Infinity],"speed":[-0.2,0.5]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1680').one('muse_this_bp_activate', function(){
+$('#u1140').registerPositionScrollEffect([{"in":[-Infinity,1874],"speed":[-0.2,0.6]},{"in":[1874,Infinity],"speed":[-0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1130').registerPositionScrollEffect([{"in":[-Infinity,1042.96],"speed":[0.2,0.5]},{"in":[1042.96,Infinity],"speed":[0.2,0.6]}], $(this)); /* scroll effect */
+$('#u1120').registerPositionScrollEffect([{"in":[-Infinity,2194.69],"speed":[-0.1,0.4]},{"in":[2194.69,Infinity],"speed":[-0.2,0.5]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
@@ -763,6 +763,6 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=3936894949" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=128606099" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>

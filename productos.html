@@ -18,7 +18,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "productos.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "productos.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.nunakaskai.com/phone/productos.html"/>
@@ -26,8 +26,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>PRODUCTOS| Nuna Kaskai: Extractos Naturales </title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3894975254"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4098244616"/>
-  <link rel="stylesheet" type="text/css" href="css/productos.css?crc=4094976773" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=255350973"/>
+  <link rel="stylesheet" type="text/css" href="css/productos.css?crc=424130365" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
@@ -574,7 +574,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1680', '#bp_1440', '#bp_1280', '#bp_1024'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u1274').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,153]},{"speed":[0,0],"in":[153,Infinity]}], $(this)); /* scroll effect */
+$('#u1274').registerBackgroundPositionScrollEffect([{"in":[-Infinity,153],"speed":[0,0]},{"in":[153,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
@@ -582,6 +582,6 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=3936894949" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=128606099" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>
