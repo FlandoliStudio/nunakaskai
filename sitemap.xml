@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.nunakaskai.com/index.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.nunakaskai.com/phone/index.html"/>
@@ -17,9 +17,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/whatsapp.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.nunakaskai.com/images/telefono.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/ubicacion.svg</image:loc>
@@ -66,7 +63,7 @@
   </url>
   <url>
     <loc>http://www.nunakaskai.com/productos.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.nunakaskai.com/phone/productos.html"/>
@@ -78,9 +75,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/whatsapp.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.nunakaskai.com/images/telefono.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/ubicacion.svg</image:loc>
@@ -103,7 +97,7 @@
   </url>
   <url>
     <loc>http://www.nunakaskai.com/contacto.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.nunakaskai.com/phone/contacto.html"/>
@@ -117,9 +111,6 @@
       <image:loc>http://www.nunakaskai.com/images/whatsapp.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.nunakaskai.com/images/telefono.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.nunakaskai.com/images/ubicacion.svg</image:loc>
     </image:image>
     <image:image>
@@ -128,7 +119,7 @@
   </url>
   <url>
     <loc>http://www.nunakaskai.com/nosotros.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.nunakaskai.com/phone/nosotros.html"/>
@@ -142,9 +133,6 @@
       <image:loc>http://www.nunakaskai.com/images/whatsapp.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.nunakaskai.com/images/telefono.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.nunakaskai.com/images/ubicacion.svg</image:loc>
     </image:image>
     <image:image>
@@ -156,7 +144,7 @@
   </url>
   <url>
     <loc>http://www.nunakaskai.com/extracto-de-guayusa.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.nunakaskai.com/phone/extracto-de-guayusa.html"/>
@@ -168,9 +156,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/whatsapp.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.nunakaskai.com/images/telefono.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/ubicacion.svg</image:loc>
@@ -190,7 +175,7 @@
   </url>
   <url>
     <loc>http://www.nunakaskai.com/extracto-de-moringa.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.nunakaskai.com/phone/extracto-de-moringa.html"/>
@@ -202,9 +187,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/whatsapp.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.nunakaskai.com/images/telefono.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.nunakaskai.com/images/ubicacion.svg</image:loc>
